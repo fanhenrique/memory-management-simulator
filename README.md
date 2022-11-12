@@ -1,3 +1,2 @@
+# Simulador de gerência de memória.
 Trabaho da disciplina de Sistemas operacionais.
-
-simulador de gerência de memória 
